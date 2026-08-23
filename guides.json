@@ -1,0 +1,80 @@
+{
+  "updated_at": "2026-08-23",
+  "guides": [
+    {
+      "id": "bahamut-000586",
+      "title": "台服目前到28等的心得與練功路線",
+      "author": "小新手",
+      "category": "新手指南",
+      "tags": ["練等", "路線", "新手"],
+      "url": "https://forum.gamer.com.tw/C.php?bsn=32564&snA=586",
+      "summary": "從1等到28等的效率練功路線與資源分配建議。",
+      "source": "bahamut",
+      "published_at": "2026-08-05",
+      "is_featured": true,
+      "thumbnail": ""
+    },
+    {
+      "id": "bahamut-002167",
+      "title": "法師轉職完全攻略：技能點配置與裝備選擇",
+      "author": "魔法老手",
+      "category": "職業解析",
+      "tags": ["法師", "轉職", "技能", "裝備"],
+      "url": "https://forum.gamer.com.tw/C.php?bsn=32564&snA=2167",
+      "summary": "法師三轉前後的技能點配置、輸出手法與裝備優先順序。",
+      "source": "bahamut",
+      "published_at": "2026-08-12",
+      "is_featured": true,
+      "thumbnail": ""
+    },
+    {
+      "id": "bahamut-001320",
+      "title": "深淵副本 II 王機制拆解與站位圖",
+      "author": "副本達人",
+      "category": "副本攻略",
+      "tags": ["副本", "深淵", "王機制", "站位"],
+      "url": "https://forum.gamer.com.tw/C.php?bsn=32564&snA=1320",
+      "summary": "圖解深淵副本 II 的每階段王機制與建議站位。",
+      "source": "bahamut",
+      "published_at": "2026-07-28",
+      "is_featured": false,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube-aBcDeFgH123",
+      "title": "【瑪奇Mobile】改版活動全獎勵一次領！",
+      "author": "遊戲頻道 Mabi",
+      "category": "活動情報",
+      "tags": ["活動", "改版", "獎勵"],
+      "url": "https://www.youtube.com/watch?v=aBcDeFgH123",
+      "summary": "本次改版活動的全部獎勵與最省時領取順序。",
+      "source": "youtube",
+      "published_at": "2026-08-20",
+      "is_featured": true,
+      "thumbnail": "https://i.ytimg.com/vi/aBcDeFgH123/hqdefault.jpg"
+    },
+    {
+      "id": "youtube-XyZ987654",
+      "title": "新手前七天該做什麼？零課金規劃",
+      "author": "阿吉攻略",
+      "category": "新手指南",
+      "tags": ["新手", "零課金", "規劃"],
+      "url": "https://www.youtube.com/watch?v=XyZ987654",
+      "summary": "零課金玩家前七天的每日任務與資源累積建議。",
+      "source": "youtube",
+      "published_at": "2026-08-18",
+      "is_featured": false,
+      "thumbnail": "https://i.ytimg.com/vi/XyZ987654/hqdefault.jpg"
+    },
+    {
+      "id": "bahamut-000900",
+      "title": "缺欄位測試資料（故意缺 tags 與 author）",
+      "author": "",
+      "category": "職業解析",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=32564&snA=900",
+      "source": "bahamut",
+      "published_at": "2026-08-01",
+      "is_featured": false
+    }
+  ]
+}
