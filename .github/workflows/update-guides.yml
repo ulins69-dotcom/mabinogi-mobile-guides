@@ -27,6 +27,7 @@ jobs:
       - name: 執行資料管線代理人
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         working-directory: scraper
         run: python main.py --pages 2 --out ../guides.json
 

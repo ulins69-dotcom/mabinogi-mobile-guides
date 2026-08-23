@@ -107,6 +107,7 @@ def _parse_list(html: str) -> list[dict]:
             "url": f"https://forum.gamer.com.tw/C.php?bsn={BSN}&snA={sn}",
             "summary": "",
             "source": "bahamut",
+            "region": "tw",
             "published_at": published_at,
             "views": views,
             "replies": replies,
